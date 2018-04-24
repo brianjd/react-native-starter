@@ -430,7 +430,7 @@
     progress "2.0.0"
     proxy-from-env "^1.0.0"
 
-"@sentry/wizard@^0.9.1":
+"@sentry/wizard@^0.9.5":
   version "0.9.5"
   resolved "https://registry.yarnpkg.com/@sentry/wizard/-/wizard-0.9.5.tgz#3fc84de626dd4863affe3417ba71f1d89af7265d"
   dependencies:
@@ -6102,9 +6102,9 @@ range-parser@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.0.tgz#f49be6b487894ddc40dcc94a322f611092e00d5e"
 
-raven-js@^3.22.1:
-  version "3.24.1"
-  resolved "https://registry.yarnpkg.com/raven-js/-/raven-js-3.24.1.tgz#7327e08786248517eedd36205bf50f1047821ffa"
+raven-js@^3.24.2:
+  version "3.24.2"
+  resolved "https://registry.yarnpkg.com/raven-js/-/raven-js-3.24.2.tgz#c5cacb363b198812e80cd4c6714e5e478549ebcf"
 
 raw-body@^2.2.0:
   version "2.3.2"
@@ -6207,12 +6207,12 @@ react-native-rename@2.2.2:
     node-replace "^0.3.3"
     shelljs "^0.7.7"
 
-react-native-sentry@0.35.3:
-  version "0.35.3"
-  resolved "https://registry.yarnpkg.com/react-native-sentry/-/react-native-sentry-0.35.3.tgz#c4e662705a9d13ac754ad8c0c484e7598e27a025"
+react-native-sentry@0.36.0:
+  version "0.36.0"
+  resolved "https://registry.yarnpkg.com/react-native-sentry/-/react-native-sentry-0.36.0.tgz#1c66d72af56aa801daaa5569c09fc7d04bea6544"
   dependencies:
-    "@sentry/wizard" "^0.9.1"
-    raven-js "^3.22.1"
+    "@sentry/wizard" "^0.9.5"
+    raven-js "^3.24.2"
 
 react-native-typescript-transformer@1.2.4:
   version "1.2.4"
